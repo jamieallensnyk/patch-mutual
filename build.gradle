@@ -31,8 +31,8 @@ dependencies {
 		'org.glassfish.jersey.containers:jersey-container-servlet:2.27',
 		'org.glassfish.jersey.inject:jersey-hk2:2.27',
 		'log4j:log4j:1.2.16',
-		'org.apache.wink:wink-json4j:1.4',
-		'commons-collections:commons-collections:3.2.2'	
+		'org.apache.wink:wink-json4j:1.4'
+		
 	providedCompile \
 		'javax:javaee-api:7.0'
 }
